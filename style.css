@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+    background-image: url('images/banner/banner1.png');
+    height: 810px;
+    background-repeat: no-repeat;
+
+    text-align: right;
+    margin-left: 150px;
+
+}
+
+/* .pos {
+    margin-right: 300px;
+} */
+
+.contents {
+
+    padding-left: 850px;
+    padding-right: 230px;
+    padding-top: 220px;
+}
+
+
+.head-title {
+    font-size: 65px;
+}
+
+.title-des {
+    margin-top: 24px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #F15B22;
+
+    color: #FFF;
+
+    
+    
+    font-size: 20px;
+    
+    padding: 10px 20px;
+    border: none;
+}
+
+.info-list {
+    display: flex;
+    align-items: center;
+}
+.info-des {
+    padding-left: 10px;
+}
+
+.first-section {
+    display: flex;
+    margin-top: 200px;
+    gap: 100px;
+}
+.about-me {
+    padding-top: 250px;
+    padding-right: 330px;
+    
+}
+
+.my-img {
+    padding-left: 350px;
+}
