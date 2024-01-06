@@ -39,10 +39,10 @@ header {
 
     color: #FFF;
 
-    
-    
+
+
     font-size: 20px;
-    
+
     padding: 10px 20px;
     border: none;
 }
@@ -51,6 +51,7 @@ header {
     display: flex;
     align-items: center;
 }
+
 .info-des {
     padding-left: 10px;
 }
@@ -60,12 +61,43 @@ header {
     margin-top: 200px;
     gap: 100px;
 }
+
 .about-me {
     padding-top: 250px;
     padding-right: 330px;
-    
+
 }
 
 .my-img {
     padding-left: 350px;
 }
+
+.my-plan {
+    text-align: center;
+    font-size: 40px;
+    
+    font-weight: 700;
+}
+
+.plan {
+    /* display: flex;
+   
+    margin-left: auto;
+    margin-right: auto; */
+
+    display: flex;
+    justify-content: center;
+    padding-left: 190px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    /* align-items: center; */
+}
+
+.plan-list {
+    margin-right: 200px;
+}
+
+.second-section {
+    margin-top: 200px;
+}
+
