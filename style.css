@@ -146,3 +146,21 @@ footer {
 
     margin-right: 20px;
 }
+
+.footer-form input[type='email'], .footer-form input[type='button'] {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.footer-form input[type='email'] {
+    background:  #151414;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+
+.footer-form input[type='button'] {
+    padding: 15px;
+    border-radius: 5px;
+}
