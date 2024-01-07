@@ -101,3 +101,48 @@ header {
     margin-top: 200px;
 }
 
+.img-part {
+    background-image: url('images/gradient2.png'), url('images/watch.png');
+    height: 400px;
+    background-repeat: no-repeat;
+    margin: 0px 330px;
+    padding-left: 70px;
+    padding-top: 70px;
+    
+}
+
+.btn-secondart {
+    border-radius: 5px;
+    border: none;
+    padding: 20px 30px;
+}
+
+#call-now {
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+}
+footer {
+    display: flex;
+    gap: 330px;
+    
+    background:  #151414;
+}
+
+.footer-part{
+    padding-left: 230px;
+    width: 50%;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.future, .footer-des, .footer-email, .footer-phone, .subscribe {
+    color: white;
+}
+.space {
+    margin-bottom: 20px;
+}
+#icon-img {
+
+    margin-right: 20px;
+}
